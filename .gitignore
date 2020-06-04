@@ -1,0 +1,9 @@
+# model & data
+
+*.w2v
+*.npy
+*.json
+
+% jupyter notebook
+
+*.ipynb_checkpoints
